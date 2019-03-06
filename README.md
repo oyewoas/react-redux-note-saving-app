@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Check on heroku
+
+https://reactreduxnote.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
