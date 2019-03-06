@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Check on heroku
+## Check on heroku
 
 https://reactreduxnote.herokuapp.com/
 
